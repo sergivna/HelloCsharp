@@ -10,6 +10,7 @@ namespace Lab
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("GCH");
         }
     }
 }
