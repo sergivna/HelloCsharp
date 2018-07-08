@@ -28,7 +28,6 @@ namespace Lab
             
             Console.WriteLine("ВВедіть параметр а (а>0)");
             a = Convert.ToInt32(Console.ReadLine());
-            if (a < 0 || a == 0) a = -1;
          }
 
          public  static void GetPoint (ref double x,ref double y)
